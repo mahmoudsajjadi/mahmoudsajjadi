@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I’m Mahmoud Sajjadi, a PhD student in Computer Science and Engineering at the University of Nevada, Reno. I am passionate about solving complex problems and extracting valuable insights from data. 
+I’m Mahmoud Sajjadi, a PhD student in Computer Science and Engineering at the University of Nevada, Reno. I am passionate about solving complex problems and extracting valuable insights from data. I am proficient in programming languages such as Python, MATLAB, and more, and am able to develop custom algorithms, models, and applications to meet specific needs.
 
 My current research focuses on developing machine learning algorithms in distributed systems and improving privacy in machine learning methods. Also I am interested in using machine learning to improve the efficiency and reliability of power grids, and to protect the privacy of individuals' data.
 
