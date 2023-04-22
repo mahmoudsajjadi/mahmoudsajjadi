@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 
+I’m Mahmoud Sajjadi, a PhD student in Computer Science and Engineering at the University of Nevada, Reno. I am passionate about solving complex problems and extracting valuable insights from data. 
+
+My current research focuses on developing machine learning algorithms in distributed systems and improving privacy in machine learning methods. Also I am interested in using machine learning to improve the efficiency and reliability of power grids, and to protect the privacy of individuals' data.
 
 I am always looking for new opportunities to grow and learn. If you have any questions or would like to discuss potential collaboration, please feel free to connect with me on my Linkedin <a href="https://www.linkedin.com/in/mahmoudsajjadi/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"></a>
 .
