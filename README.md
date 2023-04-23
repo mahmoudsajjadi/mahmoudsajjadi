@@ -4,6 +4,8 @@ I’m Mahmoud Sajjadi, a PhD student in Computer Science and Engineering at the 
 
 My current research focuses on developing machine learning algorithms in distributed systems and improving privacy in machine learning methods. Also I am interested in using machine learning to improve the efficiency and reliability of power grids, and to protect the privacy of individuals' data.
 
+As someone with a background in machine learning and power systems, I have expertise in the intersection of these two fields. Specifically, I have experience in developing machine learning models for predicting power system behavior and optimizing power system operations. I am familiar with a variety of techniques, including deep learning, reinforcement learning, and decision trees, and have applied them to problems such as load forecasting, fault diagnosis, and energy management. Additionally, I have knowledge of power system design, operation, and control, including topics such as power generation, transmission, distribution, and renewable energy integration. Through my background in machine learning and power systems, I am committed to advancing the field of sustainable energy and optimizing power system performance.
+
 I am always looking for new opportunities to grow and learn. If you have any questions or would like to discuss potential collaboration, please feel free to connect with me on my Linkedin <a href="https://www.linkedin.com/in/mahmoudsajjadi/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"></a>
 .
 
