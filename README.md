@@ -15,9 +15,9 @@ I am always looking for new opportunities to grow and learn. If you have any que
 
 # Publications
 
-[**S. M. Sajjadi Mohammadabadi**, L. Yang, F. Yan, and J. Zhang, “Communication-efficient training workload balancing for decentralized multi-agent learning,” in IEEE ICDCS 2024.](https://arxiv.org/abs/2405.00839)
+**S. M. Sajjadi Mohammadabadi**, L. Yang, F. Yan, and J. Zhang, “Communication-efficient training workload balancing for decentralized multi-agent learning,” in IEEE ICDCS 2024.[link](https://arxiv.org/abs/2405.00839)
 
-[**S. M. Sajjadi Mohammadabadi**, Y. Liu, A. Canafe, and L. Yang, “Towards distributed learning of PMU data: A federated learning based event classification approach,” in 2023 IEEE PES General Meeting, Orlando, FL, USA, July, 2023.](https://ieeexplore.ieee.org/abstract/document/10252920)
+**S. M. Sajjadi Mohammadabadi**, Y. Liu, A. Canafe, and L. Yang, “Towards distributed learning of PMU data: A federated learning based event classification approach,” in 2023 IEEE PES General Meeting, Orlando, FL, USA, July, 2023.[link](https://ieeexplore.ieee.org/abstract/document/10252920)
 
 
 
