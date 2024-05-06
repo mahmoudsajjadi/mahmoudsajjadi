@@ -21,7 +21,7 @@ I am always looking for new opportunities to grow and learn. If you have any que
 
 ## Conference Papers
 
-**[S. M. Sajjadi Mohammadabadi](https://arxiv.org/abs/2405.00839)**, L. Yang, F. Yan, and J. Zhang, “Communication-efficient training workload balancing for decentralized multi-agent learning,” in IEEE ICDCS 2024.
+[**S. M. Sajjadi Mohammadabadi**, L. Yang, F. Yan, and J. Zhang, “Communication-efficient training workload balancing for decentralized multi-agent learning,” in IEEE ICDCS 2024.](https://arxiv.org/abs/2405.00839)
 
 
 
