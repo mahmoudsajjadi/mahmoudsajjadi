@@ -9,6 +9,26 @@ As someone with a background in machine learning and power systems, I have exper
 I am always looking for new opportunities to grow and learn. If you have any questions or would like to discuss potential collaboration, please feel free to connect with me on my Linkedin <a href="https://www.linkedin.com/in/mahmoudsajjadi/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"></a>
 .
 
+
+
+
+
+# Publications
+
+## Journal Papers
+
+
+
+## Conference Papers
+
+**[S. M. Sajjadi Mohammadabadi](https://arxiv.org/abs/2405.00839)**, L. Yang, F. Yan, and J. Zhang, “Communication-efficient training workload balancing for decentralized multi-agent learning,” in IEEE ICDCS 2024.
+
+
+
+
+
+
+
 <!--
 **mahmoudsajjadi/mahmoudsajjadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
