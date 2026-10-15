@@ -4,6 +4,15 @@ I am an **AI Researcher & Machine Learning Engineer** specializing in the mathem
 
 ---
 
+### 🚀 Featured Open-Source Repositories & Toolkits
+
+| Repository | Focus & Domain | Badges |
+| :--- | :--- | :--- |
+| [**Awesome AI Coding Tools**](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) | Autonomous software engineering agents, local open-weight models (Qwen2.5-Coder), SWE-bench leaderboards, and system architecture. | ![Stars](https://img.shields.io/github/stars/mahmoudsajjadi/awesome-ai-coding-tools?style=flat&color=yellow) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) |
+| [**Awesome AI Research Tools**](https://github.com/mahmoudsajjadi/awesome-ai-research-tools) | Literature discovery, LaTeX math digitization, computational reproducibility checklists, and paper writing workflows. | ![Stars](https://img.shields.io/github/stars/mahmoudsajjadi/awesome-ai-research-tools?style=flat&color=yellow) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) |
+
+---
+
 ### 🔬 Research Domains & Core Expertise
 
 *   **Trustworthy Distributed Systems:** Designing privacy-preserving Edge AI frameworks, federated optimization, and multi-agent split-learning architectures under strict resource constraints.
