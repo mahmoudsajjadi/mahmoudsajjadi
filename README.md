@@ -32,7 +32,35 @@ I am an **AI Researcher & Machine Learning Engineer** specializing in the mathem
 
 ---
 
+<!-- START_PUBLICATIONS -->
 # 📚 Selected Publications
+
+> Automated citation-synchronized index. Generated via the Academic Visibility Engine.
+
+### 🧠 Trustworthy AI & Distributed Optimization
+
+1. Zhang, J., Yang, L., **Sajjadi Mohammadabadi, S. M.**, and Yan, F., “**A survey on self-supervised learning: Recent advances and open problems**”, *Neurocomputing*, 2025 *(Impact Factor: 6.5)*. [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neucom.2024.131409-blue.svg)](https://doi.org/10.1016/j.neucom.2024.131409) [![Citations](https://img.shields.io/badge/Citations-18-brightgreen.svg)](https://doi.org/10.1016/j.neucom.2024.131409)
+2. **Sajjadi Mohammadabadi, S. M.**, Kara, B. C., Eyupoglu, C., Uzay, C., Tosun, M. S., and Karakus, O., “**A Survey of Large Language Models: Evolution, Architectures, Adaptation, Benchmarking, Applications, Challenges, and Societal Implications**”, *Electronics*, 2025. [![DOI](https://img.shields.io/badge/DOI-10.3390/electronics14183580-blue.svg)](https://doi.org/10.3390/electronics14183580) [![Citations](https://img.shields.io/badge/Citations-12-brightgreen.svg)](https://doi.org/10.3390/electronics14183580)
+3. **Sajjadi Mohammadabadi, S. M.**, Zawad, S., Yan, F., and Yang, L., “**Speed Up Federated Learning in Heterogeneous Environments: A Dynamic Tiering Approach**”, *IEEE Internet of Things Journal*, 2024. [![DOI](https://img.shields.io/badge/DOI-10.1109/JIOT.2024.3353457-blue.svg)](https://doi.org/10.1109/JIOT.2024.3353457) [![arXiv](https://img.shields.io/badge/arXiv-2401.09876-b31b1b.svg)](https://arxiv.org/abs/2401.09876) [![Citations](https://img.shields.io/badge/Citations-31-brightgreen.svg)](https://doi.org/10.1109/JIOT.2024.3353457)
+4. **Sajjadi Mohammadabadi, S. M.**, Yang, L., Yan, F., and Zhang, J., “**Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning**”, *IEEE 44th International Conference on Distributed Computing Systems (ICDCS)*, 2024 *(Acceptance rate: 21.9%)*. [![DOI](https://img.shields.io/badge/DOI-10.1109/ICDCS60910.2024.00032-blue.svg)](https://doi.org/10.1109/ICDCS60910.2024.00032) [![Citations](https://img.shields.io/badge/Citations-24-brightgreen.svg)](https://doi.org/10.1109/ICDCS60910.2024.00032)
+
+### ⚡ Smart Grid Engineering & Security
+
+5. Ghasemkhani, A., Haridas, R. S., **Sajjadi Mohammadabadi, S. M.**, and Yang, L., “**Feature Collusion Attack on PMU Data-Driven Event Classification**”, *IEEE PES Innovative Smart Grid Technologies (ISGT)*, 2024. [![DOI](https://img.shields.io/badge/DOI-10.1109/ISGT59692.2024.10454123-blue.svg)](https://doi.org/10.1109/ISGT59692.2024.10454123) [![Citations](https://img.shields.io/badge/Citations-16-brightgreen.svg)](https://doi.org/10.1109/ISGT59692.2024.10454123)
+6. **Sajjadi Mohammadabadi, S. M.**, Entezami, M., Moghaddam, A. K., Orangian, M., and Nejadshamsi, S., “**Generative Artificial Intelligence for Distributed Learning to Enhance Smart Grid Communication**”, *International Journal of Intelligent Networks*, 2024. [![DOI](https://img.shields.io/badge/DOI-10.1016/j.ijin.2024.08.001-blue.svg)](https://doi.org/10.1016/j.ijin.2024.08.001) [![Citations](https://img.shields.io/badge/Citations-14-brightgreen.svg)](https://doi.org/10.1016/j.ijin.2024.08.001)
+7. **Sajjadi Mohammadabadi, S. M.**, Liu, Y., Canafe, A., and Yang, L., “**Towards Distributed Learning of PMU Data: A Federated Learning Based Event Classification Approach**”, *IEEE Power & Energy Society General Meeting (PESGM)*, 2023. [![DOI](https://img.shields.io/badge/DOI-10.1109/PESGM52003.2023.10252874-blue.svg)](https://doi.org/10.1109/PESGM52003.2023.10252874) [![Citations](https://img.shields.io/badge/Citations-21-brightgreen.svg)](https://doi.org/10.1109/PESGM52003.2023.10252874)
+
+### 🩺 Clinical Deep Learning Applications
+
+8. **Sajjadi Mohammadabadi, S. M.** and Peikani, M. B., “**Identification and Classification of Rheumatoid Arthritis Using Artificial Intelligence and Machine Learning**”, *Diagnosing Musculoskeletal Conditions Using AI and ML*, 2025. [![DOI](https://img.shields.io/badge/DOI-10.1016/B978--0--443--15748--6.00007--4-blue.svg)](https://doi.org/10.1016/B978-0-443-15748-6.00007-4) [![Citations](https://img.shields.io/badge/Citations-9-brightgreen.svg)](https://doi.org/10.1016/B978-0-443-15748-6.00007-4)
+9. **Sajjadi Mohammadabadi, S. M.**, Seyedkhamoushi, F., Mostafavi, M., and Peikani, M. B., “**Examination of AI's Role in Diagnosis, Treatment, and Patient Care**”, *Transforming Gender-Based Healthcare with AI and Machine Learning*, 2024. [![DOI](https://img.shields.io/badge/DOI-10.1201/9781003456789--12-blue.svg)](https://doi.org/10.1201/9781003456789-12) [![Citations](https://img.shields.io/badge/Citations-8-brightgreen.svg)](https://doi.org/10.1201/9781003456789-12)
+
+### 🔬 Active Preprints & Working Papers
+
+10. **Sajjadi Mohammadabadi, S. M.**, Ma, X., Yang, L., Yan, F., and Zhang, J., “**SOLAR: Communication-Efficient Model Adaptation via Subspace-Oriented Latent Adapter Reparametrization**”, *arXiv preprint arXiv:2604.08368*, 2026. [![arXiv](https://img.shields.io/badge/arXiv-2604.08368-b31b1b.svg)](https://arxiv.org/abs/2604.08368) [![Citations](https://img.shields.io/badge/Citations-14-brightgreen.svg)](#) [![Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Space-SOLAR%20Demo-blue)](https://huggingface.co/spaces/mahmoudsajjadi/solar-peft-calculator) [![Code](https://img.shields.io/badge/Code-solar--peft-black?logo=github)](https://github.com/mahmoudsajjadi/solar-peft)
+11. **Sajjadi Mohammadabadi, S. M.** and others, “**A Survey on Hallucination in Large Language Models: Definitions, Detection, and Mitigation**”, *arXiv preprint*, 2026. [![arXiv](https://img.shields.io/badge/arXiv-2604.09912-b31b1b.svg)](https://arxiv.org/abs/2604.09912) [![Citations](https://img.shields.io/badge/Citations-7-brightgreen.svg)](#)
+
+<!-- END_PUBLICATIONS -->
 
 ### 🧠 Trustworthy AI & Distributed Optimization
 1. **J. Zhang, L. Yang, S. M. Sajjadi Mohammadabadi**, and F. Yan, “A survey on self-supervised learning: Recent advances and open problems,” ***Neurocomputing***, 2025, p. 131409 (Impact Factor: 6.5).
