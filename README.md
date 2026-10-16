@@ -8,6 +8,15 @@ I am an **AI Researcher & Machine Learning Engineer** specializing in the mathem
 
 > 🌟 **Lead Author & Maintainer of [Awesome AI Coding Tools (2026 Taxonomy & Benchmarks)](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools)** — An authoritative, tiered catalog of autonomous software engineering agents, local foundation models (DeepSeek-V3/R1, Qwen2.5-Coder), Model Context Protocol (MCP) servers, and SWE-bench Verified benchmarks.
 
+<p align="center">
+  <a href="https://github.com/mahmoudsajjadi/awesome-ai-coding-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudsajjadi&repo=awesome-ai-coding-tools&theme=github_dark" alt="Awesome AI Coding Tools" />
+  </a>
+  <a href="https://github.com/mahmoudsajjadi/awesome-ai-research-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudsajjadi&repo=awesome-ai-research-tools&theme=github_dark" alt="Awesome AI Research Tools" />
+  </a>
+</p>
+
 | Repository | Focus & Core Architecture | Quick Navigation | Badges & Metrics |
 | :--- | :--- | :--- | :--- |
 | [**Awesome AI Coding Tools (2026 Taxonomy & Benchmarks)**](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) | Curated 3-tier progressive catalog: Autonomous software engineering agents, local open-weight models (Qwen2.5-Coder), SWE-bench verified systems, and AST PageRank architectures. | [Roadmap](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools#-choose-your-path-interactive-roadmap) • [Local Setup](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools#step-by-step-local-offline-recipe) • [SWE-bench](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools#autonomous-software-engineers-swe-bench) | [![Awesome](https://awesome.re/badge.svg)](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) [![Stars](https://img.shields.io/github/stars/mahmoudsajjadi/awesome-ai-coding-tools?style=flat&color=yellow)](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools/stargazers) [![Forks](https://img.shields.io/github/forks/mahmoudsajjadi/awesome-ai-coding-tools?style=flat&color=blue)](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools/network/members) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools/blob/main/LICENSE) |
