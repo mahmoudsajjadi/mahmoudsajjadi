@@ -2,6 +2,21 @@
 
 I am an **AI Researcher & Machine Learning Engineer** specializing in the mathematical optimization, scalability, and security of distributed intelligent systems. My expertise bridges foundational machine learning pipelines (Federated Learning, PEFT, and Generative AI/LLMs) with high-stakes interdisciplinary applications spanning **Clinical Health Informatics** and **Smart Energy Infrastructure**.
 
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=tkhCR5IAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-430%2B%20Citations-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar Citations" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=tkhCR5IAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/h--index-10-orange?style=flat" alt="h-index" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=tkhCR5IAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/i10--index-10-blue?style=flat" alt="i10-index" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoudsajjadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Sajjadi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 Featured Open Source Curations
