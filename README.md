@@ -25,10 +25,13 @@ I am an **AI Researcher & Machine Learning Engineer** specializing in the mathem
 
 ---
 
-### ⭐ Flagship Research Spotlight: SOLAR (Subspace PEFT Compression)
+### ⭐ Flagship Research Spotlights (2026)
 
-> 📄 **[SOLAR: Communication-Efficient Model Adaptation via Subspace-Oriented Latent Adapter Reparametrization](https://mahmoudsajjadi.github.io/papers/solar-subspace-latent-adapter-peft.html)** (*arXiv:2604.08368*, 2026) — Reduces PEFT adapter checkpoint storage and distributed synchronization payloads by **35.1% vs. LoRA** with **1.54x faster distributed sync** and **+0.3% higher GLUE accuracy** across LLaMA, RoBERTa, GPT-2, and Vision Transformers.
+> 📄 **1. [SOLAR: Communication-Efficient Model Adaptation via Subspace-Oriented Latent Adapter Reparametrization](https://mahmoudsajjadi.github.io/papers/solar-subspace-latent-adapter-peft.html)** (*arXiv:2604.08368*, 2026) — Reduces PEFT adapter checkpoint storage and distributed synchronization payloads by **35.1% vs. LoRA** with **1.54x faster distributed sync** and **+0.3% higher GLUE accuracy** across LLaMA, RoBERTa, GPT-2, and Vision Transformers.
 > 🔗 [**Interactive Calculator & 1-Click BibTeX**](https://mahmoudsajjadi.github.io/papers/solar-subspace-latent-adapter-peft.html) • [**arXiv Preprint**](https://arxiv.org/abs/2604.08368) • [**ResearchGate**](https://www.researchgate.net/profile/Seyed-Mahmoud-Sajjadi-Mohammadabadi) • [**PyTorch Code (`solar-peft`)**](https://github.com/mahmoudsajjadi/solar-peft) • [**HF Space Demo**](https://huggingface.co/spaces/mahmoudsajjadi/solar-peft-calculator)
+>
+> ⚡ **2. [Sustainable Smart Grid Resilience and Renewable Integration Using Multi-Agent Reinforcement Learning](https://mahmoudsajjadi.github.io/papers/sustainable-smart-grid-resilience-marl.html)** (*MDPI Sustainability*, Vol. 18, Issue 20, 10574, 2026) — Decentralized MARL feeder reconfiguration and Volt–VAr droop control achieving **+51% PV hosting capacity** and **72.7% fewer feasibility evaluations** across IEEE 33-bus and 179-bus Oberrhein networks.
+> 🔗 [**Interactive Page & Simulator**](https://mahmoudsajjadi.github.io/papers/sustainable-smart-grid-resilience-marl.html) • [**Official DOI: 10.3390/su182010574**](https://doi.org/10.3390/su182010574) • [**Full PDF**](https://www.mdpi.com/2071-1050/18/20/10574/pdf) • [**ResearchGate**](https://www.researchgate.net/profile/Seyed-Mahmoud-Sajjadi-Mohammadabadi)
 
 ---
 
